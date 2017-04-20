@@ -78,7 +78,7 @@ For more information about contributing to the project please, read the [Contrib
 
 ## Change Log
 
-Currently, the Password-Igniter Library is in the version **1.0.0**. See the full [Changelog][changelog] for more details.
+Currently, the Password-Igniter Library is in the version **1.0.1**. See the full [Changelog][changelog] for more details.
 
 [GustMartins]: https://github.com/GustMartins
 [contrib]: https://github.com/GustMartins/Password-Igniter/blob/master/contributing.md

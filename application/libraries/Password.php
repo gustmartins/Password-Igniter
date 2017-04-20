@@ -255,7 +255,7 @@ class Password {
 
 		if (is_readable('/dev/urandom') && ($fh = @fopen('/dev/urandom', 'rb')))
 		{
-			$output = fread($fh, $count);
+			$output = fread($fh, $n);
 			fclose($fh);
 		}
 
